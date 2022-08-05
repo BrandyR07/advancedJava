@@ -8,5 +8,7 @@ public class App{
         for(int i = 0; i < 5; i++){
             System.out.println("I Love Programming with Java");
         }
+
+        System.out.println("Hello World2");
     }
 }
